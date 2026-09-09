@@ -29,6 +29,7 @@ The dataset is publicly available and is not included in this repository.
 ## Model Results
 
 | Model | Precision | Recall | F1-Score | ROC-AUC |
+|---|---:|---:|---:|---:|
 | Logistic Regression | 14.73% | 90.54% | 25.33% | 98.72% |
 | XGBoost | 85.43% | 87.16% | 86.29% | 98.66% |
 
